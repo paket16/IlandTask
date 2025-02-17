@@ -2,7 +2,7 @@
 
 using std::cout;
 
-#define WIDTH 11 //желаемое значение +1
+#define WIDTH 11 // значение +1
 #define HEIGHT 7
 
 void lookAround(int **map, int currentX, int currentY)
